@@ -119,3 +119,13 @@ python main.py --help
 
 - 본 프로젝트는 교육 및 개인 유틸리티 개발 목적으로 제작되었습니다.
 - 과도한 짧은 빈도의 반복 크롤링은 위키 gg 서버에 부하를 줄 수 있으므로 기본 탑재된 딜레이 설정을 유지하여 실행하시는 것을 권장합니다.
+
+---
+
+## 👥 Contributors
+
+이 프로젝트는 아래 기여자들의 멋진 파트너십과 협업을 통해 설계 및 보강되었습니다.
+
+- **[hanyuec8](https://github.com/hanyuec8)** (프로젝트 오너 및 메인 개발자)
+- **[Gemini (Antigravity)](https://deepmind.google/)** (AI 페어 프로그래밍 파트너)
+
