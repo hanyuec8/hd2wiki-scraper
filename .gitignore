@@ -1,0 +1,26 @@
+# Python compile cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Downloaded Assets (한글 리소스 폴더 제외)
+부스터/
+망토/
+헬멧/
+방어구/
+공격/
+방어/
+보급/
+임무/
+주 무기/
+보조 무기/
+투척 무기/
+
+# Temporary folders
+temp_test/
+n/
+temp/
+
+# Cache record files
+downloaded_*.txt
