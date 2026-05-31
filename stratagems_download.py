@@ -230,7 +230,7 @@ def scrape_stratagem_images(output_dir=None, record_file=None, headless=True, wo
     tasks = []
     
     for cat_name, names in stratagem_categories.items():
-        cat_dir = os.path.join(base_dir, cat_name)
+        cat_dir = os.path.join(base_dir, "스트라타젬", cat_name)
         os.makedirs(cat_dir, exist_ok=True)
         
         for name in names:
